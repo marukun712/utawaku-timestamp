@@ -31,7 +31,7 @@ async function getid() {
                 let stampdata = []
                 for (let i = 0; i < time.length; i++) {
                     stampdata.push({
-                        [i]: {
+                        item: {
                             'time': time[i],
                             'title': titledata[i]
                         }
