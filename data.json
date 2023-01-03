@@ -164,240 +164,6 @@
             "timestamp": [
                 {
                     "item": {
-                        "time": "0:09:57",
-                        "title": "\t地球最後の告白を / kemu"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:21:48",
-                        "title": "\t絶え間なく藍色 / 獅子志司"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:30:48",
-                        "title": "\t心という名の不可解 / Ado"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:40:28",
-                        "title": "\tオルターエゴ / Misumi"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:49:16",
-                        "title": "\t幽霊屋敷の首吊り少女 / トーマ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:00:23",
-                        "title": "\tコールボーイ / syudou"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:14:08",
-                        "title": "\tマーシャル・マキシマイザー / 柊マグネタイト"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:24:29",
-                        "title": "\tHope / ゆよゆっぺ"
-                    }
-                }
-            ],
-            "id": "OLQfUQygMKo",
-            "videotitle": "【歌枠】(^_-)【アルバ・セラ/VERSEⁿ】",
-            "image": {
-                "url": "https://i.ytimg.com/vi/OLQfUQygMKo/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "url": "https://www.youtube.com/watch?v=OLQfUQygMKo"
-        }
-    },
-    {
-        "item": {
-            "timestamp": [
-                {
-                    "item": {
-                        "time": "0:10:21",
-                        "title": "\tジャンキーナイトタウンオーケストラ / すりぃ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:25:31",
-                        "title": "\tスロウダウナー / ろくろ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:41:10",
-                        "title": "\t夜明けと蛍 / n-buna "
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:58:18",
-                        "title": "\t食虫植物 / 理芽"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:02:43",
-                        "title": "\tヤンキーボーイ・ヤンキーガール / トーマ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:10:41",
-                        "title": "\tダウナーウィッチ / 廉"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:17:21",
-                        "title": "\tアングレイデイズ  /  ツミキ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:25:44",
-                        "title": "\tアンノウンマザーグース  /  wowaka"
-                    }
-                }
-            ],
-            "id": "VaYHa_Mcv5g",
-            "videotitle": "【歌枠】・・・【アルバ・セラ/VERSEⁿ】",
-            "image": {
-                "url": "https://i.ytimg.com/vi/VaYHa_Mcv5g/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "url": "https://www.youtube.com/watch?v=VaYHa_Mcv5g"
-        }
-    },
-    {
-        "item": {
-            "timestamp": [
-                {
-                    "item": {
-                        "time": "0:06:25",
-                        "title": "\t少女レイ / みきとP"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:16:44",
-                        "title": "\t思想犯 / ヨルシカ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:25:01",
-                        "title": "\tブリキノダンス / 日向電工"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:32:13",
-                        "title": "\tクイーンオブハート / 奏音69"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:41:51",
-                        "title": "\tフォニイ(phony) / ツミキ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "0:52:41",
-                        "title": "\tラブカ？ / 柊キライ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:00:17",
-                        "title": "\t臨界ダイバー / うみろ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:09:47",
-                        "title": "\tQ  / 椎名もた"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:23:14",
-                        "title": "\tキャットラビング  / 香椎モイミ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:29:05",
-                        "title": "\tマーシャル・マキシマイザー / 柊マグネタイト"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:39:03",
-                        "title": "\tロウワー  / ぬゆり"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:49:44",
-                        "title": "\tヴィラン  / てにをは"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "2:02:24",
-                        "title": "\tメリュー  / n-buna "
-                    }
-                },
-                {
-                    "item": {
-                        "time": "2:15:19",
-                        "title": "\t投資家レコーズ / TOKOTOKO"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "2:27:56",
-                        "title": "\tあの夏が飽和する。 / カンザキイオリ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "2:39:36",
-                        "title": "\t命に嫌われている。 / カンザキイオリ"
-                    }
-                }
-            ],
-            "id": "7A1mQHQEeY0",
-            "videotitle": "【歌枠】♫【アルバ・セラ/VERSEⁿ】",
-            "image": {
-                "url": "https://i.ytimg.com/vi/7A1mQHQEeY0/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "url": "https://www.youtube.com/watch?v=7A1mQHQEeY0"
-        }
-    },
-    {
-        "item": {
-            "timestamp": [
-                {
-                    "item": {
                         "time": "0:03:03",
                         "title": " Start"
                     }
@@ -472,110 +238,6 @@
             "timestamp": [
                 {
                     "item": {
-                        "time": "2:07",
-                        "title": " アセさん登場"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "2:17",
-                        "title": " 声出し"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "18:25",
-                        "title": " カタオモイ／Aimer"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "26:10",
-                        "title": " 星間飛行／ランカ・リー=中島愛"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "27:12",
-                        "title": " キラッ"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "31:08",
-                        "title": " レディメイド／Ado"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "45:32",
-                        "title": " Lemon／米津玄師"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "55:30",
-                        "title": " 丸の内サディスティック／椎名林檎"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "57:36",
-                        "title": " 回線に弄ばれるアセさん"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "59:44",
-                        "title": " 歌続き"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:06:50",
-                        "title": " バグ／かいりきベア"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:18:00",
-                        "title": " 僕たちの行方／高橋瞳"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:24:27",
-                        "title": " おしゃかしゃま／RADWIMPS"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:30:51",
-                        "title": " 車輪の唄／BUMP OF CHICKEN"
-                    }
-                },
-                {
-                    "item": {
-                        "time": "1:38:12",
-                        "title": "\tソラニン／ASIAN KUNG-FU GENERATION"
-                    }
-                }
-            ],
-            "id": "Xi4LolVKdD4",
-            "videotitle": "【歌枠】久【アルバ・セラ/VERSEⁿ】",
-            "image": {
-                "url": "https://i.ytimg.com/vi/Xi4LolVKdD4/default.jpg",
-                "width": 120,
-                "height": 90
-            },
-            "url": "https://www.youtube.com/watch?v=Xi4LolVKdD4"
-        }
-    },
-    {
-        "item": {
-            "timestamp": [
-                {
-                    "item": {
                         "time": "2:56",
                         "title": " start　～１周年イベントの話"
                     }
@@ -619,6 +281,216 @@
                 "height": 90
             },
             "url": "https://www.youtube.com/watch?v=5k2Vzw5SVaI"
+        }
+    },
+    {
+        "item": {
+            "timestamp": [
+                {
+                    "item": {
+                        "time": "13:40",
+                        "title": " 津軽海峡冬景色"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "25:53",
+                        "title": " I'm Your Treasure Box * あなたはマリン船長をたからばこからみつけた。"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "37:00",
+                        "title": " 私は最強"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "47:45",
+                        "title": " ちゅ、多様性"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "57:40",
+                        "title": " ダダダダ天使"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:25:55",
+                        "title": " 春よ、来い"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:35:30",
+                        "title": " Tot Musica"
+                    }
+                }
+            ],
+            "id": "qfE2F61u6dU",
+            "videotitle": "【歌枠】大晦日【アルバ・セラ/VERSEⁿ】",
+            "image": {
+                "url": "https://i.ytimg.com/vi/qfE2F61u6dU/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "url": "https://www.youtube.com/watch?v=qfE2F61u6dU"
+        }
+    },
+    {
+        "item": {
+            "timestamp": [
+                {
+                    "item": {
+                        "time": "0:15:17",
+                        "title": "\t少女レイ // みきとP feat. 初音ミク"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "0:30:13",
+                        "title": "\t妄想感傷代償連盟 // DECO*27 feat. 初音ミク"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "0:45:57",
+                        "title": "\tド屑 // なきそ feat. 歌愛ユキ"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "0:57:35",
+                        "title": "\tルカルカ☆ナイトフィーバー // samfree feat. 巡音ルカ"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:09:52",
+                        "title": "\tラブカ？ // 柊キライ feat. v flower"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:21:19",
+                        "title": "\tフォニイ // ツミキ feat.可不(KAFU) "
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:31:29",
+                        "title": "\tJust Be Friends // Dixie Flatline feat. 巡音ルカ"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:43:47",
+                        "title": "\tダブルラリアット // アゴアニキP feat. 巡音ルカ"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:55:01",
+                        "title": "\t酔いどれ知らず // Kanaria feat. GUMI"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "2:03:03",
+                        "title": "\t乙女解剖 // DECO*27 feat. 初音ミク"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "2:10:02",
+                        "title": "\tアイロニ // すこっぷ feat. 初音ミク"
+                    }
+                }
+            ],
+            "id": "wwWhVOgFUlg",
+            "videotitle": "【歌枠】ボカロ縛り【アルバ・セラ/VERSEⁿ】",
+            "image": {
+                "url": "https://i.ytimg.com/vi/wwWhVOgFUlg/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "url": "https://www.youtube.com/watch?v=wwWhVOgFUlg"
+        }
+    },
+    {
+        "item": {
+            "timestamp": [
+                {
+                    "item": {
+                        "time": "17:35",
+                        "title": " 奈落の花 / 島みやえい子 (ひぐらしのなく頃に解)"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "30:17",
+                        "title": " 空色デイズ / 中川翔子 (天元突破グレンラガン)"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "47:30",
+                        "title": " Pray / Tommy heavenly6 (銀魂)"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:09:30",
+                        "title": " お願いマッスル / 紗倉ひびき"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:25:18",
+                        "title": " 街雄鳴造 (ダンベル何キロ持てる？)"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "1:48:57",
+                        "title": " I beg you / Aimer (劇場版 Fate/stay night [Heaven's Feel])"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "2:05:10",
+                        "title": " ETERNAL BLAZE / 水樹奈々 (魔法少女リリカルなのはA’s)"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "2:12:07",
+                        "title": " めざせポケモンマスター / 松本梨香 (ポケットモンスター)"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "2:13:20",
+                        "title": " 小さきもの / 小さきもの (劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ)"
+                    }
+                },
+                {
+                    "item": {
+                        "time": "2:20:28",
+                        "title": " 小さきもの / 小さきもの (劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ) リトライ"
+                    }
+                }
+            ],
+            "id": "LbVuv7D5wFM",
+            "videotitle": "【歌枠】アニソン縛り【アルバ・セラ/VERSEⁿ】",
+            "image": {
+                "url": "https://i.ytimg.com/vi/LbVuv7D5wFM/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "url": "https://www.youtube.com/watch?v=LbVuv7D5wFM"
         }
     }
 ]

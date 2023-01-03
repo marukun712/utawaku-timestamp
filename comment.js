@@ -31,19 +31,20 @@ async function GetId() {
 }
 
 async function GetTimeStamp(props) {
-    let res = await fetch(`https://www.googleapis.com/youtube/v3/commentThreads?key=${apikey}&part=snippet&videoId=${props.Id}`)
-    let json = await res.json();
-    let num = await json.items.length
-    let url = await `https://www.youtube.com/watch?v=${props.Id}`
+    try {
 
-    for (let i = 0; i < num; i++) {
-        let comment = await json.items[i].snippet.topLevelComment.snippet.textOriginal
-        //コメントからタイムスタンプ部分を抜き出す
-        let body = await (String(comment).match(/[0-9]{1,}:[0-9]{1,}:[0-9]{1,}(.*)(.*)|[0-9]{1,}:[0-9]{1,}(.*)(.*)/gi));
-        let time = await (String(comment).match(/[0-9]{1,}:[0-9]{1,}:[0-9]{1,}|[0-9]{1,}:[0-9]{1,}/gi))
-        let title = await (String(body).replace(/[0-9]{1,}:[0-9]{1,}:[0-9]{1,}|[0-9]{1,}:[0-9]{1,}/gi, ""));
-        let titledata = await title.split(',');
-        try {
+        let res = await fetch(`https://www.googleapis.com/youtube/v3/commentThreads?key=${apikey}&part=snippet&videoId=${props.Id}`)
+        let json = await res.json();
+        let num = await json.items.length
+        let url = await `https://www.youtube.com/watch?v=${props.Id}`
+
+        for (let i = 0; i < num; i++) {
+            let comment = await json.items[i].snippet.topLevelComment.snippet.textOriginal
+            //コメントからタイムスタンプ部分を抜き出す
+            let body = await (String(comment).match(/[0-9]{1,}:[0-9]{1,}:[0-9]{1,}(.*)(.*)|[0-9]{1,}:[0-9]{1,}(.*)(.*)/gi));
+            let time = await (String(comment).match(/[0-9]{1,}:[0-9]{1,}:[0-9]{1,}|[0-9]{1,}:[0-9]{1,}/gi))
+            let title = await (String(body).replace(/[0-9]{1,}:[0-9]{1,}:[0-9]{1,}|[0-9]{1,}:[0-9]{1,}/gi, ""));
+            let titledata = await title.split(',');
             if (time.length > 5) {
                 let stampdata = []
                 for (let i = 0; i < time.length; i++) {
@@ -66,12 +67,13 @@ async function GetTimeStamp(props) {
                 break;
             }
         }
-        catch {
-            console.log('Failed.')
-        }
 
 
     }
+    catch {
+        console.log('Failed.')
+    }
+
 }
 GetId();
 
