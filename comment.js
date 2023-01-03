@@ -6,23 +6,28 @@ import fs from 'fs';
 var result = []
 
 async function GetId() {
-    let res = await fetch(`https://www.googleapis.com/youtube/v3/playlistItems?key=${apikey}&playlistId=${list}&part=snippet&maxResults=50`)
-    let json = await res.json();
-    let items = await json.items
-    let num = await items.length
+    try {
+        let res = await fetch(`https://www.googleapis.com/youtube/v3/playlistItems?key=${apikey}&playlistId=${list}&part=snippet&maxResults=50`)
+        let json = await res.json();
+        let items = await json.items
+        let num = await items.length
 
-    for (let i = 0; i < num; i++) {
-        //動画ID、タイトル、サムネイルを取得する
-        let Id = await items[i].snippet.resourceId.videoId
-        let VideoTitle = await items[i].snippet.title
-        let Image = await items[i].snippet.thumbnails.default
-        await GetTimeStamp(
-            {
-                "Id": Id,
-                "Title": VideoTitle,
-                "Image": Image
-            }
-        )
+        for (let i = 0; i < num; i++) {
+            //動画ID、タイトル、サムネイルを取得する
+            let Id = await items[i].snippet.resourceId.videoId
+            let VideoTitle = await items[i].snippet.title
+            let Image = await items[i].snippet.thumbnails.default
+            await GetTimeStamp(
+                {
+                    "Id": Id,
+                    "Title": VideoTitle,
+                    "Image": Image
+                }
+            )
+        }
+    }
+    catch (e) {
+        console.log(e)
     }
 
     fs.writeFile('data.json', JSON.stringify(result, null, '    '), (err) => {
